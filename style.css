@@ -1,29 +1,132 @@
 html,
 body,
-body{
-  background-color: #459;
-  color: red;
-  font-family: double ;
-}
-h1{
-  font-size: 50px;
+* {
+  font-size: 10px;
   padding: 0;
-  margin: 20;
+  margin: 0;
   box-sizing: border-box;
 }
-h3{
+body {
+  background-color: #7bcfee;
+  border: 10px solid white;
+  border-style: double;
+}
+#guessthebuild img {
+  width: 50rem;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 1px;
+}
+h3 {
+  font-size: 70px;
+  font-family: kode mono, monospace;
+  font-weight: 700;
+  letter-spacing: -8px;
+  word-spacing: -14px;
+  text-align: center;
+  margin-top: 2px;
+  margin-bottom: -10px;
+  -webkit-text-fill-color: rgb(218, 155, 69);
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: white;
+}
+h1 {
   font-size: 20px;
-  padding: 0;
-  margin: 20;
-  box-sizing: border-box;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: kode mono, monospace;
+  font-weight: 700;
+  color: white;
 }
-li {
-  color: rgb(26, 137, 202);
+#image2 img {
+  width: 30rem;
+  height: 30rem;
+  border: 10px solid white;
+  margin-left: 5rem;
+}
+.container {
+  width: 140rem;
+  height: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    border: 10px solid white;
+}
+#postone {
+  background-color: #2a7e19;
+}
+#posttwo {
+  background-color: #1da7bf;
+}
+#postthree {
+  background-color: #df7ee5;
+}
+#humpbackflamingo {
+  font-size: 20px;
+  border: 5px solid white;
+  padding: 2rem;
+  margin: 2rem;
+    width: 70rem;
+    height: 30rem;
+}
+.container2 {
+  width: 85rem;
+  height: 30rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    margin: 30px;
+    border: 10px solid white;
+    padding: 0px;
+}
+#postonetext {
+  background-color: #54ad43;
+}
+#posttwotext {
+  background-color: #4ec8d9;
+}
+#postthreetext {
+  background-color: #e88de8;
+}
+h2 {
+  height: 60px;
+  width: 100%;
   font-size: 3rem;
+  color: white;
+  font-family: kode mono, monospace;
+  padding: 8px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border: 5px solid white;
 }
-.first {
-  color: purple;
+p{
+  height: 60px;
+  width: 100%;
+  font-size: 1.6rem;
+  color: white;
+  font-family: kode mono, monospace;
+  padding: 8px;
+  margin-top: 10px;
+    margin-bottom: 10px;
+  border: 5px solid white;
 }
-#second {
-  color: blue;
+#image3 img {
+  width: 30rem;
+  height: 30rem;
+  border: 10px solid white;
+  margin-left: 5rem;
+}
+#image4 img {
+  width: 30rem;
+  height: 30rem;
+  border: 10px solid white;
+  margin-left: 5rem;
 }
