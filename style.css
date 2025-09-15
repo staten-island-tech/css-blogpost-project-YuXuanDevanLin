@@ -98,7 +98,7 @@ h1 {
 
 
 h2 {
-  height: 60px;
+  height: 35%;
   width: 100%;
   font-size: 3rem;
   color: white;
@@ -106,7 +106,6 @@ h2 {
   padding: 8px;
   margin-top: 0px;
   margin-bottom: 10px;
-  border: 5px solid white;
 }
 p{
   height: 60px;
@@ -117,7 +116,6 @@ p{
   padding: 8px;
   margin-top: 10px;
     margin-bottom: 10px;
-  border: 5px solid white;
 }
 #image3 img {
   width: 30rem;
