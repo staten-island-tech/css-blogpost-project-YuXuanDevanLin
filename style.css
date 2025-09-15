@@ -80,7 +80,6 @@ h1 {
 .container2 {
   width: 85rem;
   height: 30rem;
-  display: flex;
   justify-content: center;
   align-items: center;
     margin: 30px;
@@ -96,6 +95,8 @@ h1 {
 #postthreetext {
   background-color: #e88de8;
 }
+
+
 h2 {
   height: 60px;
   width: 100%;
